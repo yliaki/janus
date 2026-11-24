@@ -1,0 +1,11 @@
+{
+  "schemaVersion": 1,
+  "id": "janus_controlify_fix",
+  "version": "1.0.0",
+  "name": "Janus: Controlify keyboard fix",
+  "description": "Lets Controlify's on-screen keyboard type into text fields on Minecraft 26 (the field lost its focus when the keyboard opened).",
+  "license": "MIT",
+  "environment": "client",
+  "mixins": ["janus_controlify_fix.mixins.json"],
+  "depends": {"fabricloader": "*", "controlify": "*"}
+}

@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Janus Big Picture
+GenericName=Split-screen launcher (controller)
+Comment=Fullscreen, controller-driven split-screen launcher
+Exec=@BINDIR@janus-bigpicture
+Icon=janus-split-screen
+Terminal=false
+Categories=Game;
+Keywords=split;screen;coop;multiplayer;controller;gamepad;big picture;

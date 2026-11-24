@@ -1,0 +1,27 @@
+# Build artifacts
+build/
+
+# Python bytecode
+__pycache__/
+*.pyc
+*.pyo
+
+# Obsidian vault (personal notes UI)
+.obsidian/
+
+# gbe_fork runtime artifacts, written next to the vendored .so on every run
+vendor/goldberg/*/EMU_MISSING_INTERFACE.txt
+vendor/goldberg/*/userdata/
+
+# Release packages + staging (scripts/package.py)
+dist/
+
+# Claude Code local settings
+.claude/
+
+# Maintainer's development notes (kept locally, not published)
+NOTES.md
+CLAUDE.md
+TODO.md
+INPUT_PROBE.md
+docs/

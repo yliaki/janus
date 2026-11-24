@@ -1,0 +1,10 @@
+[Desktop Entry]
+Type=Application
+Name=Janus Split Screen
+GenericName=Split-screen launcher
+Comment=Play local multiplayer with one game window and controller per player
+Exec=@BINDIR@janus
+Icon=janus-split-screen
+Terminal=false
+Categories=Game;Utility;
+Keywords=split;screen;coop;multiplayer;controller;gamepad;

@@ -1,0 +1,7 @@
+{
+  "required": false,
+  "package": "dev.janus.controlifyfix",
+  "compatibilityLevel": "JAVA_21",
+  "client": ["EditBoxInputTargetMixin"],
+  "injectors": {"defaultRequire": 0}
+}
